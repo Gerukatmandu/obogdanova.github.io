@@ -1,4 +1,4 @@
-# Cats are the best! :cat:
+# Cats are the best! 
 
 The cat (Felis catus) is a domestic species of small carnivorous mammal.
 
@@ -8,7 +8,7 @@ The cat (Felis catus) is a domestic species of small carnivorous mammal.
 >is often referred to as the domestic cat to distinguish it 
 >from the wild members of the family.*
 
-***Intersting fact*** :cat2:
+***Intersting fact*** 
 ```
 
  Cats can jump up to six times their length.
@@ -16,12 +16,12 @@ The cat (Felis catus) is a domestic species of small carnivorous mammal.
 ```
 ![Junping cat](https://media.istockphoto.com/photos/young-cat-hunting-butterfly-picture-id500175633?k=20&m=500175633&s=612x612&w=0&h=ST9Skv8LvxAaGiT2IpP1_TJD54I4zDuByJp6dLgKu24=)
 
-## 1st section with some pretty photos :smile:
+## 1st section with some pretty photos:
 
 ![Swimming cats](https://i.pinimg.com/originals/18/9d/2d/189d2df56aca316a763f59e6420da914.jpg)
 
 
-> or check more more photos here :
+> or check more more photos here:
 
 [Set of kitties](https://upload.wikimedia.org/wikipedia/commons/0/0b/Cat_poster_1.jpg)
 
@@ -30,7 +30,7 @@ The cat (Felis catus) is a domestic species of small carnivorous mammal.
 
 
 
-***Intersting fact*** :cat2:
+***Intersting fact*** 
 ```
 
 Cats are believed to be the only mammals who don't taste sweetness.
@@ -40,7 +40,7 @@ Cats are believed to be the only mammals who don't taste sweetness.
 ![Sweets and kitties](https://i.pinimg.com/236x/3b/98/77/3b987711ad33f6a425b2da3c9f9b80f1--black-kittens-cute-kittens.jpg)
 
 
-## 2nd section with wild cats :tiger2:
+## 2nd section with wild cats:
 
 ![Wild cat 1](http://1.bp.blogspot.com/-1LxwxIU1aZ8/VQ7nJJASnZI/AAAAAAAA3ZY/NjRFxqktwqc/s1600/quiz%2Bbig%2Bcat%2Bspecies%2Bwild%2Bcat.jpg)
 
@@ -53,7 +53,7 @@ Cats are believed to be the only mammals who don't taste sweetness.
 - Tiger
 - Lion
 
-***Intersting fact*** :cat2:
+***Intersting fact***
 ```
 
 Cats are nearsighted, but their peripheral vision and night vision are much better than that of humans.
@@ -63,7 +63,7 @@ Cats are nearsighted, but their peripheral vision and night vision are much bett
 
 **Hope you enjpyed the story about _cats_!**
 
-One more nice photo for Good bye :octocat:
+One more nice photo for good bye 
 
 ![White tiger](https://images.unsplash.com/photo-1550973595-c9f4d21f38cc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2hpdGUlMjB0aWdlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80)
 
