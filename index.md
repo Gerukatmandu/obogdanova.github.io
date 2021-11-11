@@ -5,7 +5,8 @@ The cat (Felis catus) is a domestic species of small carnivorous mammal.
 **Did you know?**
 
 >*It is the only domesticated species in the family Felidae and 
->is often referred to as the domestic cat to distinguish it from the wild members of the family.*
+>is often referred to as the domestic cat to distinguish it 
+>from the wild members of the family.*
 
 ***Intersting fact*** :cat2:
 ```
